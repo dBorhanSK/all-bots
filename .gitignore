@@ -1,9 +1,10 @@
+bots-config.json
 .env
 .env.*
 !.env.example
+
 __pycache__/
-*.py[cod]
-.venv/
+*.pyc
+*.pyo
 venv/
-bots-config.json 
-.env 
+.venv/
